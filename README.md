@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML& CSS
 - 💞️ I’m looking forward to learn new things
 - 😄 Pronouns: She/her
-- 
 
 <!---
 priya9131/priya9131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
